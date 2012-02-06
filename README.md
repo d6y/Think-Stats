@@ -1,5 +1,9 @@
-Working through Thinak Stats
+Working through Think Stats
+===========================
+
 
 Links
- * http://www.cdc.gov/nchs/nsfg/nsfg_cycle6.htm
+-----
+
+* [NSFG data description](http://www.cdc.gov/nchs/nsfg/nsfg_cycle6.htm)
 
